@@ -1,4 +1,5 @@
 # PokedexTutorial-master
+Приложение по отображению, поиску и просмотру информации о покемонов.
 
 ![Снимок экрана 2024-06-05 в 12 38 24](https://github.com/NikolayGrinko/PokedexTutorial-master/assets/112849355/884d61e7-fe86-4364-b3b1-1aaede91de49)
 
